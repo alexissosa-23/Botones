@@ -1,0 +1,33 @@
+.button-container {
+    margin-bottom: 10px;
+  }
+  
+  .search-button {
+    border: 2px solid #5983dd;
+    border-radius: 20px;
+    height: 40px;
+    width: 170px;
+    font-size: large;
+    color: #5983dd
+  }
+  
+  .circle-button {
+    border: none;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    background-color: rgb(3, 238, 187);
+    color: #fff;
+    font-size: 24px;
+   
+  }
+  
+  .account-button {
+    border: 2px solid #000;
+    height: 40px;
+    width: 200px;
+    background-color: blue;
+    color: white;
+    font-size: larger;
+    box-shadow: 6px 6px 10px black
+  }
